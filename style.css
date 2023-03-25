@@ -74,7 +74,7 @@ nav ul li a:hover::after{
 }
 .header-text h1 span:hover {
     color: white;
-    background-color: black;
+    background-color: transparent;
 }
 
 
