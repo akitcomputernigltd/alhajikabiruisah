@@ -5,7 +5,7 @@ if (isset($S_POST['submit'])) {
     $subject = trim($_POST['subject']);
     $message = trim($_POST['message']);
 
-    $myMail = "mymovieisahiyya@gmal.com";
+    $myMail = "mymovieisahiyya@support.com";
     $header = "From: " . $email;
     $message2 = "You have received a mail from " . $name . ". \n\n" . $message;
 
